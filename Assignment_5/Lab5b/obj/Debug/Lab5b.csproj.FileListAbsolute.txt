@@ -1,0 +1,10 @@
+C:\Users\jerry\Desktop\Programming in.Net_COMP _10204\Assignments\Assignment_5\Lab5b\bin\Debug\Lab5b.exe.config
+C:\Users\jerry\Desktop\Programming in.Net_COMP _10204\Assignments\Assignment_5\Lab5b\bin\Debug\Lab5b.exe
+C:\Users\jerry\Desktop\Programming in.Net_COMP _10204\Assignments\Assignment_5\Lab5b\bin\Debug\Lab5b.pdb
+C:\Users\jerry\Desktop\Programming in.Net_COMP _10204\Assignments\Assignment_5\Lab5b\obj\Debug\Lab5b.csprojAssemblyReference.cache
+C:\Users\jerry\Desktop\Programming in.Net_COMP _10204\Assignments\Assignment_5\Lab5b\obj\Debug\Lab5b.Form1.resources
+C:\Users\jerry\Desktop\Programming in.Net_COMP _10204\Assignments\Assignment_5\Lab5b\obj\Debug\Lab5b.Properties.Resources.resources
+C:\Users\jerry\Desktop\Programming in.Net_COMP _10204\Assignments\Assignment_5\Lab5b\obj\Debug\Lab5b.csproj.GenerateResource.cache
+C:\Users\jerry\Desktop\Programming in.Net_COMP _10204\Assignments\Assignment_5\Lab5b\obj\Debug\Lab5b.csproj.CoreCompileInputs.cache
+C:\Users\jerry\Desktop\Programming in.Net_COMP _10204\Assignments\Assignment_5\Lab5b\obj\Debug\Lab5b.exe
+C:\Users\jerry\Desktop\Programming in.Net_COMP _10204\Assignments\Assignment_5\Lab5b\obj\Debug\Lab5b.pdb
